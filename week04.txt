@@ -1,0 +1,48 @@
+
+<!--august-->
+<!DOCTYPE html>
+<html lang="en">
+	<meta charset="utf-8">
+	<title>Quart Jewellery & Germs</title>
+<head>
+	<style>
+#main {
+ border-radius: 2em; 
+}
+</style>
+	<link rel="stylesheet" href="styles04.css">
+	<img src="wirewrap01.jpg" alt="" ="smoky quartz pendant" width="171" height="171" class="addrightmargin">
+	<h1>Quartz Jewellery & Gems</h1>
+	<h2>Distinguished wire-wrapped jewelry, pendants, and gems </h2>
+	<nav>
+		<a href="classics.html">Classics</a>&nbsp;
+		<a href="specials.html">Specials</a>&nbsp;
+		<a href="gems.html">Gems</a>&nbsp;
+		<a href="contact.html">Contact Me</a>&nbsp;
+	<fotter>
+	<div>	
+	<div id="main">
+		<span style="font-weight:bold;">"Smoky quartz"</span>
+		<span style="font-weight:bold;">"Soulmate Crystal"</span>
+		<p> Quart.z Jewellery & Gems pampers you with one-of-a-kind, high quality wire wrapped pendants and
+		gems. Our works of art are inspired by natural geometries and the vast beauty of mother nature.</p>
+		<p>The featured pendant provides these characteristics:</p>
+	<ul>
+		<li>gemstone is "Smoky quartz" also called a "Soulmate Crystal"</li>
+		<li>gemstone is over two carats</li>
+		<li>wire is a mixture of antique colored copper and .930 pure silver</li>
+		<li>high-quality silver alloy requires very little polishing</li>
+		<li>pendant is approximately 4cm × 3cm</li>
+	</ul
+		<p>Come to Quartz Jewellery & Gems to make your stay in Durango a life-time treasure.</p>
+		<p>Established 1989</p>
+		<a href="gems@quartz.com.au">contact us through email</a>
+	</div>
+</fotter>
+</nav>
+</head>
+<body>
+	<div id="outerwrapper">
+		</div> <!--close the outerwrapper--> 
+</body>	
+</html>
